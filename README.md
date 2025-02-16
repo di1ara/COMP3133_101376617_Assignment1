@@ -20,7 +20,7 @@ This project is a simple Employee Management System built using **Node.js**, **E
 - **MongoDB**: Database for storing employee information
 - **Bcryptjs**: For password hashing and validation
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1️⃣ Prerequisites
 - Node.js
