@@ -148,12 +148,6 @@ mutation {
 }
 ```
 
-## Testing
-Run tests (if available):
-```bash
-npm test
-```
-
 ## Troubleshooting
 - **Database Connection Issues**: Ensure MongoDB is running and `MONGO_URI` is correctly set.
 - **Server Not Starting**: Run `npm install` to ensure dependencies are installed.
